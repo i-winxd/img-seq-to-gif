@@ -34,6 +34,8 @@ this command may work:
 
 # Running the program
 
+Download this code by going to `code` and clicking "download zip".
+
 **This program SHOULD work on macOS and Linux, but
 I have not tested it there.** On Windows, make sure
 you do not run this through the start menu 
