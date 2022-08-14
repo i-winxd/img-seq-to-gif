@@ -54,7 +54,7 @@ How to run: click on `export_many_img_sequences.bat`.
 Running this will prompt you to open a folder, which contains
 folders of image sequences. It will create GIFs of all folders that
 appear to be image sequences (all files in the folder look
-like `[...]####.png` - or more precisely, have the regex `.+\d+\.png`)
+like `[...]####.png` - or more precisely, have the regex `^.+\d+\.png$`)
 
 All GIFs will be exported in a folder named `export`, which is relative
 to your current working directory (the folder you're running this from).
