@@ -52,7 +52,7 @@ This program has two modules.
 
 How to run: click on `export_many_img_sequences.bat`.
 Running this will prompt you to open a folder, which contains
-folders of image sequences. It will create GIFs of all folders that
+multiple folders of image sequences. It will create GIFs of all folders that
 appear to be image sequences (all files in the folder look
 like `[...]####.png` - or more precisely, have the regex `^.+\d+\.png$`)
 
